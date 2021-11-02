@@ -1,2 +1,2 @@
 # training-git
-training-git
+Training Git
